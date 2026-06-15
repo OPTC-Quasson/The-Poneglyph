@@ -1,0 +1,19 @@
+ShipID,Damage,Utility,Survivability,Farming,Flexibility,Beginner,Endgame,Investment,Overall,VerifiedBy,LastUpdated,Notes
+ship.dinghy,1,1,1,1,1,5,1,1,1,Poneglyph,2026-06-15,Starter ship
+ship.coffin_boat,2,1,1,2,2,2,1,1,2,Poneglyph,2026-06-15,Very niche
+ship.thousand_sunny,3,3,2,5,4,5,2,3,3,Poneglyph,2026-06-15,Excellent early-game ship
+ship.thousand_sunny_coated,3,4,3,3,4,4,3,3,4,Poneglyph,2026-06-15,Strong class-specific option
+ship.thriller_bark,3,3,3,2,3,2,2,2,3,Poneglyph,2026-06-15,Niche Driven teams
+ship.whale_sharks,4,3,3,3,3,3,3,3,3,Poneglyph,2026-06-15,Good offensive ship
+ship.great_erik,2,2,2,4,2,3,1,1,2,Poneglyph,2026-06-15,Farming utility
+ship.hoe,1,5,1,5,5,5,2,5,4,Poneglyph,2026-06-15,EXP king
+ship.zunesha,5,4,3,3,4,3,5,5,5,Poneglyph,2026-06-15,Top class-restricted ship
+ship.giant_koi,4,3,3,3,3,3,3,3,3,Poneglyph,2026-06-15,Solid offensive option
+ship.shark_superb,5,5,4,5,5,5,5,5,5,Poneglyph,2026-06-15,One of the strongest universal ships
+ship.oro_jackson,5,4,4,4,5,4,5,5,5,Poneglyph,2026-06-15,Premier Free Spirit/Slasher ship
+ship.victoria_punk,4,3,3,3,4,3,4,4,4,Poneglyph,2026-06-15,Excellent offensive support
+ship.sexy_foxy,2,3,2,2,2,2,1,1,2,Poneglyph,2026-06-15,Mostly collection value
+ship.red_force_emperor,5,5,4,4,5,4,5,5,5,Poneglyph,2026-06-15,Meta-defining Emperor ship
+ship.thousand_sunny_emperor,5,5,5,5,5,5,5,5,5,Poneglyph,2026-06-15,Arguably the best all-around ship
+ship.big_top_bluster_emperor,5,4,4,4,4,3,5,5,5,Poneglyph,2026-06-15,Excellent endgame ship
+ship.saber_of_xebec_emperor,5,5,4,4,5,3,5,5,5,Poneglyph,2026-06-15,Top-tier Emperor ship
