@@ -1,1 +1,19 @@
-
+ShipID,DisplayName,Series,AcquisitionMethod,ReleaseVersion,Verified
+ship.dinghy,Dinghy,Starter,Default,,Verified
+ship.coffin_boat,Coffin Boat,Classic,Unlock,,Verified
+ship.thousand_sunny,Thousand Sunny,Straw Hat,Story,,Verified
+ship.thousand_sunny_coated,Thousand Sunny - Coated Vessel,Straw Hat,Unlock,,Verified
+ship.thriller_bark,Thriller Bark,Thriller Bark,Unlock,,Verified
+ship.whale_sharks,Whale Sharks,Fish-Man Island,Unlock,,Verified
+ship.great_erik,Great Erik,East Blue,Unlock,,Verified
+ship.hoe,Hoe,Special,Gem Shop,,Verified
+ship.zunesha,Zunesha,Zou,Gem Shop,,Verified
+ship.giant_koi,Giant Koi,Wano,Unlock,,Verified
+ship.shark_superb,Shark Superb,Special,Gem Shop,,Verified
+ship.oro_jackson,Oro Jackson,Roger Pirates,Gem Shop,,Verified
+ship.victoria_punk,Victoria Punk,Kid Pirates,Gem Shop,,Verified
+ship.sexy_foxy,Sexy Foxy,Foxy Pirates,Event,,Verified
+ship.red_force_emperor,Red Force - Ship of an Emperor of the Sea,Emperor,Gem Shop,,Verified
+ship.thousand_sunny_emperor,Thousand Sunny - Ship of an Emperor of the Sea,Emperor,Gem Shop,,Verified
+ship.big_top_bluster_emperor,Big Top Bluster - Ship of an Emperor of the Sea,Emperor,Gem Shop,,Verified
+ship.saber_of_xebec_emperor,Saber of Xebec - Ship of an Emperor of the Sea,Emperor,Gem Shop,,Verified
