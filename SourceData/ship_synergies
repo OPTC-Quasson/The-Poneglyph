@@ -1,0 +1,34 @@
+CaptainID,ShipID,Score,ReasonTag,Confidence,Notes
+captain.luffy_gear5,ship.shark_superb,100,universal,100,Universal compatibility with modern teams
+captain.luffy_gear5,ship.thousand_sunny_emperor,100,universal,100,Excellent offensive and utility synergy
+captain.luffy_gear5,ship.red_force_emperor,95,damage,95,Strong damage-focused option
+
+captain.roger_psy,ship.oro_jackson,100,class_match,100,Designed for Free Spirit and Slasher crews
+captain.roger_psy,ship.shark_superb,98,universal,98,Excellent all-purpose alternative
+captain.roger_psy,ship.thousand_sunny_emperor,97,universal,95,Outstanding overall performance
+
+captain.shanks_psy,ship.red_force_emperor,100,theme_match,100,Best thematic and gameplay synergy
+captain.shanks_psy,ship.shark_superb,97,universal,95,Excellent cooldown and offensive support
+
+captain.yamato,ship.zunesha,99,class_match,98,Excellent Cerebral and Powerhouse synergy
+captain.yamato,ship.shark_superb,96,universal,95,Fits nearly every Yamato team
+
+captain.law_kid_dual,ship.victoria_punk,100,theme_match,100,Designed around Kid Pirates
+captain.law_kid_dual,ship.shark_superb,95,universal,90,Excellent universal option
+
+captain.luffy_gear5,ship.hoe,90,farming,100,Best choice for EXP farming
+captain.roger_psy,ship.hoe,88,farming,100,Excellent for leveling crews
+captain.shanks_psy,ship.hoe,88,farming,100,Useful outside endgame content
+
+captain.free_spirit_generic,ship.oro_jackson,98,class_match,95,Strong Free Spirit synergy
+captain.free_spirit_generic,ship.thousand_sunny_coated,92,class_match,90,Reliable early alternative
+
+captain.slasher_generic,ship.oro_jackson,99,class_match,95,Premier Slasher ship
+captain.slasher_generic,ship.coffin_boat,70,class_match,80,Beginner Slasher option
+
+captain.powerhouse_generic,ship.zunesha,98,class_match,95,Excellent Powerhouse support
+captain.cerebral_generic,ship.zunesha,98,class_match,95,Excellent Cerebral support
+
+captain.universal_generic,ship.shark_superb,100,universal,100,Recommended for nearly every account
+captain.universal_generic,ship.thousand_sunny_emperor,99,universal,98,Top-tier universal ship
+captain.universal_generic,ship.red_force_emperor,96,damage,95,Excellent offensive option
