@@ -1,0 +1,69 @@
+ShipID,Category,Reason
+ship.dinghy,Overall,Starter ship intended only for the earliest stages of the game.
+ship.dinghy,Beginner,Automatically available and useful until better ships are unlocked.
+
+ship.coffin_boat,Damage,Provides a modest offensive boost for Slasher crews.
+ship.coffin_boat,Investment,Quickly replaced by stronger ships.
+
+ship.thousand_sunny,Farming,Excellent for early farming due to its reliable special.
+ship.thousand_sunny,Flexibility,Works with almost every beginner team.
+ship.thousand_sunny,Investment,Good early investment before premium ships become available.
+
+ship.thousand_sunny_coated,Utility,Improved utility over the original Sunny.
+ship.thousand_sunny_coated,Flexibility,Strong option for Free Spirit and Slasher teams.
+
+ship.thriller_bark,Utility,Niche support for Driven-focused crews.
+ship.thriller_bark,Overall,Useful in specific team compositions.
+
+ship.whale_sharks,Damage,Solid offensive bonuses for compatible crews.
+ship.whale_sharks,Overall,Reliable mid-tier ship with balanced performance.
+
+ship.great_erik,Farming,Helpful for repetitive farming content.
+ship.great_erik,Investment,Low priority compared to modern ships.
+
+ship.hoe,Farming,One of the best farming ships because of its EXP bonus.
+ship.hoe,Utility,Useful throughout an account's lifetime.
+ship.hoe,Investment,Recommended early because EXP benefits every player.
+
+ship.zunesha,Damage,Excellent offensive boosts for Cerebral and Powerhouse teams.
+ship.zunesha,Endgame,Frequently used in difficult endgame content.
+ship.zunesha,Investment,Excellent long-term investment.
+
+ship.giant_koi,Damage,Strong offensive ship for compatible crews.
+ship.giant_koi,Overall,Solid but generally outperformed by newer premium ships.
+
+ship.shark_superb,Damage,Among the strongest universal offensive ships.
+ship.shark_superb,Utility,Provides excellent cooldown support and flexibility.
+ship.shark_superb,Flexibility,Fits an enormous variety of modern teams.
+ship.shark_superb,Investment,One of the safest 20 Super Cola investments.
+ship.shark_superb,Overall,Top-tier ship for nearly every account.
+
+ship.oro_jackson,Damage,Exceptional offensive bonuses for Free Spirit and Slasher captains.
+ship.oro_jackson,Endgame,Remains a premier choice in difficult content.
+ship.oro_jackson,Investment,Excellent long-term value.
+
+ship.victoria_punk,Damage,High offensive potential for compatible teams.
+ship.victoria_punk,Overall,Strong ship with slightly narrower application.
+
+ship.sexy_foxy,Utility,Fun collectible ship with limited competitive use.
+ship.sexy_foxy,Investment,Generally not recommended unless collected for completion.
+
+ship.red_force_emperor,Damage,Excellent offensive bonuses for Emperor-era teams.
+ship.red_force_emperor,Utility,Strong universal utility in modern content.
+ship.red_force_emperor,Overall,One of the strongest premium ships available.
+
+ship.thousand_sunny_emperor,Damage,Outstanding offensive performance across most content.
+ship.thousand_sunny_emperor,Utility,Combines damage, survivability and flexibility.
+ship.thousand_sunny_emperor,Flexibility,Excellent regardless of captain choice.
+ship.thousand_sunny_emperor,Investment,Highest investment priority.
+ship.thousand_sunny_emperor,Overall,Considered one of the best ships in the game.
+
+ship.big_top_bluster_emperor,Damage,Excellent offensive bonuses for modern teams.
+ship.big_top_bluster_emperor,Endgame,Designed for late-game content.
+ship.big_top_bluster_emperor,Investment,Excellent value for advanced players.
+
+ship.saber_of_xebec_emperor,Damage,Extremely high offensive ceiling.
+ship.saber_of_xebec_emperor,Utility,Strong support effects alongside damage.
+ship.saber_of_xebec_emperor,Endgame,Excels in high-difficulty content.
+ship.saber_of_xebec_emperor,Investment,Top-tier investment for endgame accounts.
+ship.saber_of_xebec_emperor,Overall,Among the strongest ships currently available.
